@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.app{
+    @apply w-full h-screen bg-[url(/body-bg.jpg)] bg-cover bg-no-repeat flex gap-4 p-8 justify-center;
+}
